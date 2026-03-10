@@ -4,15 +4,15 @@ description: |
   CISA Known Exploited Vulnerabilities (KEV) catalog.
   List actively exploited vulnerabilities prioritized by CISA.
   
-  **Requires x-cmd**: Use x-cmd skill to install and use x-cmd,
-  see https://x-cmd.com/llms.txt . Note: load x-cmd with `. ~/.x-cmd.root/X` before use.
+  **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options).
+  see x-cmd skill for installation.
 
 license: Apache-2.0
 compatibility: POSIX Shell
 
 metadata:
   author: Li Junhao
-  version: "0.0.1"
+  version: "1.0.0"
   category: x-cmd-extension
   tags: [x-cmd, security, kev, cisa, vulnerability]
 ---
@@ -92,5 +92,4 @@ The CISA Known Exploited Vulnerabilities (KEV) catalog contains vulnerabilities 
 
 ## Related
 
-- [x-cmd kev module](https://x-cmd.com/mod/kev)
 - [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
