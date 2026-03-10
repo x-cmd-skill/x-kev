@@ -92,6 +92,5 @@ The CISA Known Exploited Vulnerabilities (KEV) catalog contains vulnerabilities 
 
 ## Related
 
-- [Back to x-cmd Skill](../../SKILL.md)
 - [x-cmd kev module](https://x-cmd.com/mod/kev)
 - [CISA KEV Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
